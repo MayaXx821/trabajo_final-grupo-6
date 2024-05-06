@@ -1,0 +1,9 @@
+<INI>
+# dashboard tal y como lo indico el cliente:
+
+- mostrar el ultimo estado de cada producto.
+- mostrar el numero de lote de cada producto.
+- mostrar el destinatario de cada producto.
+
+<INI>
+

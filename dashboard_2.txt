@@ -1,0 +1,5 @@
+<INI>
+- respuesta en tiempo real (conexión a la base de datos)
+- mostrar documentación del estado del producto (en forma de foto)
+- mantener la trazabilidad mostrando el usuario que registra el producto
+<INI>
