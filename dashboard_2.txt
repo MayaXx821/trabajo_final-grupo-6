@@ -3,4 +3,5 @@
 - mostrar documentación del estado del producto (en forma de video)
 - mantener la trazabilidad mostrando el usuario que registra el producto
 - mostrar la flota disponible actual para la distribución. #flota se define como la cantidad de vehículos de reparto#
+- tiempo de reenvío disponible ante una devolución de un producto.
 <INI>
