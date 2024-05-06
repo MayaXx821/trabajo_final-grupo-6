@@ -1,0 +1,10 @@
+<INI>
+- respuesta en tiempo real (conexión a la base de datos)
+- mostrar el historial del mes pasado
+- mostrar documentación del estado del producto (en forma de video, foto y descripción escrita y por audio)
+- mantener la trazabilidad mostrando el usuario que registra el producto.
+- mostrar la lista de usuarios encargados de registrar productos en el horario en tiempo real.
+- mostrar la flota disponible actual para la distribución. #flota se define como la cantidad de vehículos de reparto#
+- tiempo de reenvío disponible ante una devolución de un producto.
+- mostrar cantidad de productos enviados a cada farmacia en el mes.
+<INI>
