@@ -4,6 +4,8 @@
 - mostrar el ultimo estado de cada producto.
 - mostrar el numero de lote de cada producto.
 - mostrar el destinatario de cada producto.
+- te muestra los puntos de entrega de cada producto.
+- indicar los productos que hayan tenido devoluciones en las ultimas 72 horas.
 
 <INI>
 

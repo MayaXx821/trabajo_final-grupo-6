@@ -1,5 +1,6 @@
 <INI>
 - respuesta en tiempo real (conexión a la base de datos)
-- mostrar documentación del estado del producto (en forma de foto)
+- mostrar documentación del estado del producto (en forma de video)
 - mantener la trazabilidad mostrando el usuario que registra el producto
+- mostrar la flota disponible actual para la distribución. #flota se define como la cantidad de vehículos de reparto#
 <INI>
