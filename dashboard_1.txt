@@ -1,12 +1,12 @@
 <INI>
 # dashboard tal y como lo indico el cliente:
 
-- mostrar el tiempo de cada estado del producto.
+- mostrar el ultimo estado de cada producto.
 - mostrar el numero de lote de cada producto.
-- mostrar el recorrido del producto hasta el destinatario.
+- mostrar el destinatario de cada producto.
 - te muestra los puntos de entrega de cada producto.
 - indicar los productos que hayan tenido devoluciones en las ultimas 72 horas.
-- mostrar la ventana horaria de cada cliente.
+- mostrar cantidad de productos devueltos en el dia
 
 <INI>
 
